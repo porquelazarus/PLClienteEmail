@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ExemploClienteEmail.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="22"/>
+        <CursorPos X="66" Y="70"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\interfaces\pl_cliente_email_intf.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="5"/>
+        <CursorPos X="60" Y="15"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\src\implementacao\pl_cliente_email.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="79"/>
+        <CursorPos Y="96"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="94" Column="7" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="97" Column="7" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="79" Column="36" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="80" Column="36" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="79" Column="36" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="23" Column="49" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="22" Column="22" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="114" Column="27" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\implementacao\pl_cliente_email.pas"/>
+        <Caret Line="16" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\implementacao\pl_cliente_email.pas"/>
+        <Caret Line="32"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="113" Column="63" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="114" Column="63" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="113" Column="63" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="112" Column="63" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="123" Column="16" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="125" Column="28" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\implementacao\pl_cliente_email.pas"/>
+        <Caret Line="33" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\implementacao\pl_cliente_email.pas"/>
+        <Caret Line="22" Column="23" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\implementacao\pl_cliente_email.pas"/>
+        <Caret Line="57" Column="28" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\implementacao\pl_cliente_email.pas"/>
+        <Caret Line="22" Column="23" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\implementacao\pl_cliente_email.pas"/>
+        <Caret Line="24" Column="23" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="107" Column="8" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\implementacao\pl_cliente_email.pas"/>
+        <Caret Line="31" Column="18" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="86" Column="21" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="85" Column="21" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="84" Column="21" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="83" Column="21" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\view\view_mail.pas"/>
+        <Caret Line="82" Column="21" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\implementacao\pl_cliente_email.pas"/>
+        <Caret Line="95" Column="80" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="..\src\implementacao\pl_cliente_email.pas"/>
+        <Caret Line="94" Column="20" TopLine="77"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
